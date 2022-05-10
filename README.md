@@ -1,5 +1,5 @@
-<h1 align='center'>Hi there 👋</h1>
-<p align='center'>My name is Ahmed Usama. I am a Front-End Developer</p>
+<h1 align='center'>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<p align='center'>My name is Ahmed Usama. I'm a Front-End Developer</p>
 
 
 <div align='center'>
