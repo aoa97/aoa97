@@ -30,6 +30,6 @@
     <img alt="Vue" src="https://img.shields.io/badge/-Vue-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" />
     <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <img alt="Firebase" src=" https://img.shields.io/badge/-Firebase-FFD600?style=flat-square&logo=firebase&logoColor=white" />
+    <img alt="git" src="https://img.shields.io/badge/-Firebase-FFD600?style=flat-square&logo=firebase&logoColor=white" />
   </p>
 </div>
