@@ -33,3 +33,18 @@
     <img alt="git" src="https://img.shields.io/badge/-Firebase-FFD600?style=flat-square&logo=firebase&logoColor=white" />
   </p>
 </div>
+
+
+<div align='center'>
+<h3>Stats</h3>
+<figure>
+  <a href="https://github.com/aoa97">
+    <img src="https://github-readme-stats.vercel.app/api?username=aoa97&show_icons=true&theme=radical" alt="Ahmed's github stats" />
+  </a>
+</figure>
+<figure>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelazeem777&exclude_repo=Hi-chat,registration_form,Azkar,Post-v.1-Native-,Student-Housing&layout=compact&langs_count=8&theme=radical" alt="Top Langs" />
+  </a>
+</figure>
+</div>
