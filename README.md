@@ -19,7 +19,7 @@
 
 <!-- Technologies -->
 <div align='center'>
-  <h3>Things I code with</h3>
+  <h3>Things I've used</h3>
   <p>
     <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-4e5ba7?style=flat-square&logo=flutter&logoColor=white" />
